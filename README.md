@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Tejas K</h1>
 <h3 align="center">I am a Student at VIT, Chennai studying B.Tech in Computer Science with Specialization in Artificial Intelligence and Machine Learning</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/e3/dd/7e/e3dd7e08062ab6e87626a9613103e0f5.jpg">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/86/b9/aa/86b9aa22b75979de15eba78f7797042c.jpg">
 
 💫 About Me: 🔭 I’m currently working on Data Analysis<br>🌱 I’m currently learning Web Development & Machine Learning<br>💬 Ask me about AI!<br>📫 Reach me through tejaskodavour@gmail.com
 
